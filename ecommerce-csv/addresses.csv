@@ -1,0 +1,91 @@
+id,city,country_id,extended_address,is_default_billing,is_default_shipping,postal_code,state_province,street_address,user_id
+1,New York,1,,true,true,11246,NY,65625 Angelo Mountains,16
+2,Los Angeles,1,,true,true,90076,CA,91153 N Union Street,6
+3,Atlanta,1,,false,false,30307,GA,30265 Inez Haven,37
+4,Seattle,1,Apt 343,true,true,98199,WA,16015 Klein Junction,1
+5,Miami,1,,false,true,33157,FL,702 N 4th Street,61
+6,Chicago,1,,true,true,60622,IL,5919 Rosenbaum Port,11
+7,Detroit,1,Apt 277,false,false,48253,MI,71823 Bruen Hills,56
+8,Nashville,1,Apt 561,false,true,37271,TN,84646 Jennyfer Ford,40
+9,Chicago,1,,false,true,60637,IL,18972 Lafayette Glens,1
+10,Chicago,1,Apt 279,true,false,60689,IL,119 Lesch Light,3
+11,Los Angeles,1,Apt 757,true,false,90084,CA,593 W North Street,58
+12,Minneapolis,1,,true,false,55431,MN,482 N 3rd Street,10
+13,Boston,1,Apt 400,true,true,02100,MA,226 Maximilian Island,3
+14,San Antonio,1,,true,true,78216,TX,448 Dax Motorway,6
+15,Atlanta,1,Apt 944,true,false,30366,GA,2060 Elaine Port,1
+16,Chicago,1,,true,true,60664,IL,6259 Mayra Course,38
+17,New York,1,Apt 860,false,true,10046,NY,28373 W Jackson Street,59
+18,Detroit,1,Apt 136,true,true,48230,MI,5949 Luettgen Pass,65
+19,Detroit,1,Apt 815,true,true,48262,MI,8207 Dejon Mills,1
+20,Miami,1,,false,false,33182,FL,7781 Mitchell-Russel Pine,36
+21,Nashville,1,,true,true,37283,TN,410 Favian Garden,9
+22,Houston,1,Apt 532,true,false,77070,TX,56309 Earlene Ports,5
+23,San Diego,1,Apt 472,true,true,92170,CA,871 Mikel Light,39
+24,Denver,1,,false,true,80260,CO,5589 Murphy Grove,18
+25,Los Angeles,1,,false,true,90034,CA,82481 Hoeger Court,6
+26,Chicago,1,Apt 799,true,true,60684,IL,32147 Marquis Spur,20
+27,New York,1,Apt 400,true,false,10022,NY,13386 Sawayn Haven,15
+28,San Antonio,1,,false,true,78265,TX,95971 Hilll Groves,34
+29,Nashville,1,,true,true,37298,TN,6838 Kailey Row,1
+30,Boston,1,,false,true,02166,MA,37898 Klein Common,47
+31,Dallas,1,Apt 427,true,true,75275,TX,2223 Bosco Camp,40
+32,Phoenix,1,,false,false,85064,AZ,681 Thaddeus Orchard,5
+33,Charlotte,1,,true,true,28247,NC,1444 Armani Fall,19
+34,San Antonio,1,Apt 096,false,true,78294,TX,770 Oak Avenue,33
+35,Chicago,1,,true,true,60623,IL,2067 Enola Cliffs,27
+36,Chicago,1,Apt 245,true,false,60605,IL,2904 Commerce Street,18
+37,Los Angeles,1,,true,true,90001,CA,264 Main Street S,65
+38,Los Angeles,1,,true,true,90053,CA,381 Pearline Falls,32
+39,Los Angeles,1,Apt 841,true,true,90063,CA,967 Quitzon Stravenue,29
+40,Los Angeles,1,,false,true,90061,CA,3856 Atlantic Avenue,24
+41,Chicago,1,,true,true,60652,IL,5389 Douglas-Wyman Extension,47
+42,Houston,1,,false,true,77001,TX,75368 S Park Street,3
+43,New York,1,,false,true,10038,NY,98553 N Pearl Street,25
+44,Chicago,1,,false,true,60646,IL,3509 16th Street,55
+45,Dallas,1,Apt 328,true,false,75251,TX,101 Matt Mount,22
+46,Chicago,1,,false,false,60659,IL,7210 Middle Street,64
+47,New York,1,,true,true,11251,NY,901 Stamm Forest,40
+48,New York,1,,true,true,10184,NY,9077 Kihn Streets,11
+49,San Diego,1,Apt 524,false,true,92108,CA,6608 Grimes Expressway,2
+50,San Diego,1,,false,false,92162,CA,496 N Bridge Street,57
+51,Denver,1,,true,true,80226,CO,148 Main Street N,28
+52,Chicago,1,,true,true,60627,IL,5266 N Church Street,23
+53,New York,1,,true,true,10439,NY,9413 W Oak Street,1
+54,Houston,1,Apt 396,false,true,77013,TX,42909 S 1st Street,7
+55,Chicago,1,Apt 649,true,true,60653,IL,346 Pine Street,40
+56,San Francisco,1,,false,true,94111,CA,61281 Christine Shore,37
+57,Chicago,1,,false,true,60656,IL,84852 Elisha Parkways,20
+58,Dallas,1,,false,false,75272,TX,7198 W 6th Street,47
+59,Los Angeles,1,,true,false,90049,CA,9054 Jeannie Mount,23
+60,Atlanta,1,,true,true,30384,GA,6482 S Broadway,70
+61,Austin,1,Apt 702,true,true,78743,TX,9706 Lou Flat,19
+62,Dallas,1,,false,true,75225,TX,9869 Main Avenue,15
+63,Los Angeles,1,,true,true,90070,CA,768 Hamill Locks,44
+64,Los Angeles,1,,true,false,90096,CA,99377 Claud Park,2
+65,New York,1,,true,false,10058,NY,9575 Martina Station,45
+66,Miami,1,Apt 364,false,false,33163,FL,788 Clark Street,31
+67,Atlanta,1,,true,true,30363,GA,19842 Nyasia Field,3
+68,New York,1,,true,false,10282,NY,75635 Sidney Walk,12
+69,Atlanta,1,,true,true,30326,GA,13691 Turcotte Spur,50
+70,Seattle,1,,true,true,98160,WA,941 Kertzmann Trace,30
+71,Philadelphia,1,Apt 312,true,true,19134,PA,8150 N Bridge Street,2
+72,Atlanta,1,,true,true,30361,GA,81874 S Washington Street,69
+73,Atlanta,1,,false,true,30317,GA,7522 N Jefferson Street,11
+74,Houston,1,,true,true,77055,TX,1106 Roberto Plain,1
+75,Atlanta,1,,true,false,30315,GA,782 N 4th Street,21
+76,Dallas,1,Apt 517,false,true,75296,TX,226 Marks Mall,48
+77,Atlanta,1,,true,true,30326,GA,50457 N Franklin Street,4
+78,Los Angeles,1,,true,false,90039,CA,20891 Roberts Dam,24
+79,Charlotte,1,Apt 128,true,false,28233,NC,938 Layla Neck,10
+80,New York,1,,true,true,10290,NY,62834 Lakin Cape,2
+81,Chicago,1,Apt 618,true,true,60650,IL,9666 Emard Point,62
+82,Charlotte,1,,true,true,28263,NC,9323 Bridie Valley,60
+83,San Francisco,1,Apt 025,false,true,94108,CA,593 Adrain Ville,7
+84,New York,1,,true,true,10268,NY,4137 Andrea Meadow,9
+85,Phoenix,1,Apt 438,true,true,85086,AZ,92529 Delmer Trafficway,4
+86,San Diego,1,,false,false,92168,CA,3524 S Jackson Street,10
+87,Houston,1,,true,false,77089,TX,782 Kiehn Crescent,22
+88,New York,1,,true,true,10489,NY,126 N 1st Street,24
+89,Dallas,1,,true,true,75257,TX,39759 Gibson Row,24
+90,Minneapolis,1,Apt 907,true,true,55463,MN,43044 Clementina Loop,4

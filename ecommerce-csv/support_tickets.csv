@@ -1,0 +1,11 @@
+id,created_at,priority,status,subject,user_id
+1,2025-08-24 16:53:41,high,closed,Where is my order?,34
+2,2021-06-21 10:59:45,low,closed,Refund not received,47
+3,2024-12-16 20:59:58,high,pending,Coupon did not apply,31
+4,2023-02-16 14:36:20,low,closed,Where is my order?,35
+5,2025-05-14 01:05:27,low,resolved,Refund not received,60
+6,2024-07-19 16:20:17,medium,resolved,Where is my order?,22
+7,2025-11-27 15:24:33,medium,resolved,Cannot sign in,20
+8,2024-05-15 18:28:27,low,open,Item arrived damaged,5
+9,2023-10-12 11:22:29,low,closed,Where is my order?,2
+10,2024-01-27 09:51:18,medium,closed,Where is my order?,3

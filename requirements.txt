@@ -1,0 +1,13 @@
+# Database tools and CSV loading
+langchain-core
+pandas
+
+# LangGraph agent dependencies
+langgraph
+langgraph-checkpoint-sqlite
+langchain-groq
+python-dotenv
+
+# HTTP API
+fastapi
+uvicorn[standard]

@@ -1,0 +1,28 @@
+.env
+.env.*
+!.env.example
+!frontend/.env.local.example
+
+# Local SQLite databases
+*.db
+*.db-shm
+*.db-wal
+ecommerce.db
+checkpoints.db
+
+# Python
+__pycache__/
+.venv/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/.next-dev/
+frontend/out/
+frontend/next-env.d.ts
+
+# Local tooling and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+id,description,status_name
+1,With the carrier,shipped
+2,In the warehouse,paid
+3,Waiting on the customer,pending
+4,With the carrier,delivered
+5,With the carrier,refunded
+6,Closed,cancelled
