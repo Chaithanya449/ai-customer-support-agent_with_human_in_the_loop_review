@@ -39,7 +39,7 @@ flowchart TD
     T --- T3[process_return_request]
     T --- T4[request_refund]
     T --- T5[check_refund_status]
-    T1 & T2 & T3 & T4 & T5 --> DB[("ecommerce.db")]
+    T1 & T2 & T3 & T4 & T5 <-->|"read / write"| DB[("ecommerce.db")]
 
     CP[("checkpoints.db<br/>SqliteSaver by thread_id")] -.- A
 
