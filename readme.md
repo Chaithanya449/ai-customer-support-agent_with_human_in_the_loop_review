@@ -73,6 +73,10 @@ flowchart TD
 
 **Why human-in-the-loop:** A refund is critical, and so is any return  linked to a refund. The LLM handles language and tool choice. Rules are enforced in code.
 
+Why a human handles return requests, not the agent: If the agent wrongly approved a return, a delivery agent would be sent for a pickup that should not happen, which wastes their time. The cost of that mistake is higher than the cost of a human review, so the approval stays with a human.
+
+Why returns are linked to refunds: A refund after delivery is only possible once the return is accepted, so a return request is treated as refund-critical and also goes to the human reviewer. There is a second path: if a customer has paid and wants to cancel the order, they can raise an order refund request, which is also reviewed by a human.
+
 **Safety design**
 - Code validates item, delivery status, quantity, reason, duplicates and the 7-day window.
 - The agent confirms item, quantity and reason with the customer before submitting.
