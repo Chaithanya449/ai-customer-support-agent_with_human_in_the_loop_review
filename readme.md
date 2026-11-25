@@ -176,9 +176,9 @@ ai-customer-support-agent/
 
 ## Next Steps
 
-- **Evaluation:** build a test set and measure tool-call accuracy, policy-rule correctness and refusal behavior.
-- **Improve human-in-the-loop:** richer review panel, better reviewer notes and clearer escalation.
-- **Dataset:** replace the hand-made demo orders with date-relative test data or a date-handling approach.
+- **Evaluation:** building a test set and measure tool-call accuracy, policy-rule correctness and refusal behavior.
+- **Improving human-in-the-loop:** richer review panel, better reviewer notes and clearer escalation.
+- **Exploring on real,better datasets:** replace the hand-made demo orders with date-relative test data or a date-handling approach.
 - **Scope:** extend to more support queries beyond order status, returns and refunds, and tell the customer the expected refund timeline.
 
 ## Author
